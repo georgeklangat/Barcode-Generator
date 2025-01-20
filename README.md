@@ -101,17 +101,6 @@ The barcodes are saved in the current working directory with the filename format
 Contributing
 Feel free to fork this repository, make your changes, and submit a pull request. We welcome all contributions to improve this project.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-csharp
-Copy
-Edit
-
-You can copy and paste this into your `README.md` file.
-
-
-
 
 
 
